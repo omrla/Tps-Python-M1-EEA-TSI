@@ -1,4 +1,4 @@
-# 🐍 Travaux Pratiques Python — M1 EEA/TSI
+# Travaux Pratiques Python - M1 EEA/TSI
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 **Auteurs :** Omar Lamari & Alexis Paris  
 **Établissement :** Université de Bourgogne Europe  
-**Filière :** M1 EEA/TSI — 2025/2026  
+**Filière :** M1 EEA/TSI - 2025/2026  
 **Encadrants :** Mahdi Madani & Abdellah El-Zaar  
 
 ---
@@ -33,7 +33,7 @@
 
 ## 🔍 Détail des TPs
 
-### TP 1 — Récursivité, tri et recherche dichotomique
+### TP 1 - Récursivité, tri et recherche dichotomique
 Implémentation d'algorithmes fondamentaux en Python :
 - Calcul récursif de la **factorielle**, de la suite de **Fibonacci** et du **PGCD**
 - **Recherche dichotomique** dans une liste triée
@@ -41,23 +41,23 @@ Implémentation d'algorithmes fondamentaux en Python :
 
 ---
 
-### TP 2 — Application de chiffrement César
+### TP 2 - Application de chiffrement César
 
 Application de chiffrement par décalage alphabétique avec interface graphique Tkinter.
 
 **Architecture en deux couches :**
-- `fonctions_cesar.py` — couche métier (chiffrement, déchiffrement, décodage de clé)
-- `app_cesar.py` — couche IHM (interface Tkinter)
+- `fonctions_cesar.py` - couche métier (chiffrement, déchiffrement, décodage de clé)
+- `app_cesar.py` - couche IHM (interface Tkinter)
 
 **Fonctionnalités :**
 - Chiffrement / déchiffrement avec clé manuelle
 - **Decoder_Cle_V1** : retrouve la clé à partir d'un caractère clair connu
 - **Decoder_Cle_V2** : retrouve la clé par analyse de fréquence des lettres (lettre `e`)
-- Source texte depuis saisie ou fichier — résultat vers écran ou fichier
+- Source texte depuis saisie ou fichier - résultat vers écran ou fichier
 
 ---
 
-### TP 3 — Programmation orientée objet
+### TP 3 - Programmation orientée objet
 
 Modélisation d'une hiérarchie de personnages via un diagramme UML :
 
@@ -71,7 +71,7 @@ Personne
 
 ---
 
-### TP 4 — Traitement d'image numérique
+### TP 4 - Traitement d'image numérique
 
 Pipeline de traitement appliqué à l'image de référence **Barbara** (512×512 px, niveaux de gris) :
 
@@ -87,7 +87,7 @@ Pipeline de traitement appliqué à l'image de référence **Barbara** (512×512
 
 ---
 
-### TP 5 — Analyse de données (fichier `individus.xlsx`)
+### TP 5 - Analyse de données (fichier `individus.xlsx`)
 
 Pipeline complet d'analyse avec Pandas :
 
